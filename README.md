@@ -21,5 +21,6 @@ This repository collects concise project briefs for work that is not fully repre
 ## Policies And Templates
 
 - [Disclosure policy](docs/disclosure-policy.md)
+- [Engineering quality and security review](docs/engineering-security-review.md)
 - [Writing guidelines](docs/writing-guidelines.md)
 - [Case study template](templates/case-study.md)
