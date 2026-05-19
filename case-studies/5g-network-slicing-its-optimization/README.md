@@ -16,7 +16,7 @@ Intelligent transportation systems contain heterogeneous communication needs. Sa
 - QoS constraint modeling across latency, bandwidth, reliability, and isolation.
 - Resource allocation trade-off analysis.
 - Performance optimization strategy summary.
-- Public-safe explanation of networking concepts for software and algorithm interviews.
+- Public-safe explanation of networking concepts for software and algorithm discussions.
 - Disclosure boundary that avoids claiming live deployment or measured improvement without public evidence.
 
 ## Tech Stack
